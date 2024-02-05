@@ -7,9 +7,12 @@ year = 2000
 
 # divided by 100 means ce
 fgkmdb,c
+dghbvc
 dsjgnmb kjsdban kjasbhdmn ajsdb m,ntury year (ending with 00)
 # century year divided by 400 is leap year
 if (year % 400 == 0) and (year % 100 == 0):
+
+,jygmbnmj
     print("{0} is a leap year".format(year))
 
 # not divided by 100 means not a century year
